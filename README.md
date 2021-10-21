@@ -4,3 +4,7 @@ By using this TempoNoteWriter, you can easily add notes when you are working wit
 Still being developed. 🐱‍💻
 
 All Rights Reserved @migarabhanu
+
+## To contribute 
+
+If you like, you can also contribute my project by finding bugs/issues and making pull requests !
